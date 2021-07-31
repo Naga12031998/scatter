@@ -70,6 +70,10 @@ I don't own the content such as icons on this web app, this was purely developed
 
 ### Screenshots
 
+![pic1](https://user-images.githubusercontent.com/51481112/127728826-1da9b27f-d56f-4169-abd9-20b10c63a0d5.jpg)
+![pic2](https://user-images.githubusercontent.com/51481112/127728832-7488d5bf-5b2f-4f0f-8665-f1a5f9b313d4.jpg)
+![pic3](https://user-images.githubusercontent.com/51481112/127728837-b4c578ff-f453-4f19-b410-e1e8270f5163.jpg)
+
 
 
 ### Contributors

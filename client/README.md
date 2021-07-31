@@ -42,7 +42,7 @@ npm start
 
 ### Credits
 
-I don't own the content such as icons on this web app, this was purely developed with an intent of learning and fun.
+I don't own the content such as icons and images on this web app, this was purely developed with an intent of learning and fun.
 
 - Icons - Google Material Fonts
 - References - [MDN](https://developer.mozilla.org/en-US/) | [w3schools](https://www.w3schools.com/)

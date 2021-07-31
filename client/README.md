@@ -33,12 +33,10 @@ npm start
 
 #### Home Page
 
-- Users can fill their name and email for registration.
-- Users can search their learning areas in the search box. search results is shown in the dropdown below search box
-- When a user clicks outside the search box the search result closes
-- A click on submit button gets submitted only when three text fields are filled.
-- User can only select three learning areas and when he/she click on the fourth interest area an warning message is shown
-- Once there is a successful submission you will get a success message and then you can register for a new learning areas. Also text fields returns to initial stage once there is a successful submission
+- Users can see the Blurred Text in the home page. when he clicks on the text the blur is cleared and he/she is redirected to page where he can see the image and the edit button
+- When user clicks the edit button he/she can crop the image
+- Once the edit is done user can save the cropped image
+- When saving the changes user can see the spinner to indicate the changes are being saved
 
 
 

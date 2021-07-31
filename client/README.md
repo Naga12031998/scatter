@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+# Scatter 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An assignment from Scatter. allows a visitor to give away the content
 
-## Available Scripts
+ [Live Demo]()
 
-In the project directory, you can run:
+## Usage
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ Clone this repository to your local system.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+git clone [repo link]
+```
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ Install the dependencies using the following command.
 
-### `yarn build`
+```
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ Run the app using the following command.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm start
+```
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Home Page
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Users can fill their name and email for registration.
+- Users can search their learning areas in the search box. search results is shown in the dropdown below search box
+- When a user clicks outside the search box the search result closes
+- A click on submit button gets submitted only when three text fields are filled.
+- User can only select three learning areas and when he/she click on the fourth interest area an warning message is shown
+- Once there is a successful submission you will get a success message and then you can register for a new learning areas. Also text fields returns to initial stage once there is a successful submission
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Credits
+
+I don't own the content such as icons on this web app, this was purely developed with an intent of learning and fun.
+
+- Icons - Google Material Fonts
+- References - [MDN](https://developer.mozilla.org/en-US/) | [w3schools](https://www.w3schools.com/)
+
+
+
+### Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+
+
+### Libraries
+
+- React
+- Axios
+- React-modal
+
+
+
+### Screenshots
+
+
+
+![tartan_1](https://user-images.githubusercontent.com/51481112/126263173-42a9a6a8-d9ed-4c39-a222-33326dc219fd.jpg)
+
+
+### Contributors
+
+ [Naga Sowmya Narayanan](https://naga12031998.github.io/)

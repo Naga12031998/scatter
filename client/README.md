@@ -31,7 +31,6 @@ npm start
 
 ### Features
 
-#### Home Page
 
 - Users can see the Blurred Text in the home page. when he clicks on the text the blur is cleared and he/she is redirected to page where he can see the image and the edit button
 - When user clicks the edit button he/she can crop the image
